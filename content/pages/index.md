@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Cybersecurity ANALYST, Digital Defender,and a Few Other Impressive Titles
+      You’ll Want on Your Team.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Let’s explore the journey of hard work and growth—where dedication meets
+      innovation and skills are honed to solve real-world challenges. Dive
+      deeper to discover how every detail, every challenge, and every
+      achievement shapes the bigger picture.
     styles:
       self:
         height: auto
@@ -84,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
