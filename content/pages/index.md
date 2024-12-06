@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Cybersecurity Strategist, Digital Defender, Problem Solver, and a Few
-      Other Impressive Titles You’ll Want on Your Team.
+      Cybersecurity Strategist, Digital Defender,and a Few Other Impressive
+      Titles You’ll Want on Your Team.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
