@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Data Breach Incident Response and Cloud Security Remediation
 colors: colors-a
 date: '2025-01-10'
-client: Google cloud
+client: Google cloud(lab)
 description: >-
   The company experienced a significant data breach, compromising sensitive
   data. As a junior security team member, my role was to manage the incident
