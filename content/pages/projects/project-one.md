@@ -5,9 +5,11 @@ colors: colors-a
 date: '2025-01-10'
 client: Google cloud
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The company experienced a significant data breach, compromising sensitive
+  data. As a junior security team member, my role was to manage the incident
+  lifecycle: identifying vulnerabilities, isolating and containing the breach,
+  recovering compromised systems, and ensuring compliance with security
+  frameworks to prevent future attacks.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
