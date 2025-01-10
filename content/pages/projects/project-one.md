@@ -18,6 +18,7 @@ media:
   type: ImageBlock
   url: /images/contact.jpg
   altText: Project image
+socialImage: /images/contact.jpg
 ---
 
 
