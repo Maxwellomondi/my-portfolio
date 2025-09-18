@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Blending Cybersecurity Defense with E-Commerce Strategy
+    title: Bridging Core IT Excellence with Secure E-Commerce Growth
     subtitle: >-
       Let’s explore the journey of hard work and growth—where dedication meets
       innovation and skills are honed to solve real-world challenges. Dive
