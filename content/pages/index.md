@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Bridging Core IT Excellence with Secure E-Commerce Growth
+    title: "Bridging Core IT Excellence with Secure E-Commerce Growth\_ \_ \_ \_ \_ \_\_SOC Analyst | Remote IT Support Specialist | Shopify Developer & Strategist."
     subtitle: >-
       Let’s explore the journey of hard work and growth—where dedication meets
       innovation and skills are honed to solve real-world challenges. Dive
