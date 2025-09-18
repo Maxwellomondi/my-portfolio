@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Cybersecurity ANALYST, Digital Defender,and a Few Other Impressive Titles
-      You’ll Want on Your Team.
+    title: Blending Cybersecurity Defense with E-Commerce Strategy
     subtitle: >-
       Let’s explore the journey of hard work and growth—where dedication meets
       innovation and skills are honed to solve real-world challenges. Dive
